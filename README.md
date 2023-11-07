@@ -30,3 +30,10 @@ Telegram: [@milad_ibra](https://t.me/milad_ibra)
 
 #### Stats
 ![Milad's Stats](https://github-readme-stats.vercel.app/api?username=miladibra10&show_icons=true&theme=radical&hide_rank=true)
+
+#### Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miladibra10&repo=vjson)](https://github.com/miladibra10/vjson)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=optimus-hft&repo=go-ipmux)](https://github.com/optimus-hft/go-ipmux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=optimus-hft&repo=lockset)](https://github.com/optimus-hft/lockset)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=optimus-hft&repo=event-bus)](https://github.com/optimus-hft/event-bus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snapp-incubator&repo=lbaas-operator)](https://github.com/snapp-incubator/lbaas-operator)
