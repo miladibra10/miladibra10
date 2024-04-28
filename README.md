@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Milad Ebrahimi, a Full-time Software Engineer in [Wallex!](https://github.com/wallexchange) Working on trade engines.
+I'm Milad Ebrahimi, a Full-time Software Engineer at [Assertive Yield!]([https://github.com/wallexchange](https://github.com/Assertive-Yield)).
 
 I mostly code in **Golang** and **Python**, struggling with **Yaml** files a lot.
 
