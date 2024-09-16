@@ -21,7 +21,7 @@ I mostly code in **Golang** and **Python**, struggling with **Yaml** files a lot
 
 Working with:
 
-![Stack](https://skillicons.dev/icons?i=go,py,kubernetes,openshift,docker,kafka,rabbitmq,postgres,mysql,redis,gcp,aws,prometheus,grafana,ansible,git,github,gitlab,django,flask&perline=5)
+![Stack](https://skillicons.dev/icons?i=go,py,kubernetes,openshift,docker,kafka,postgres,mysql,redis,gcp,aws,prometheus,grafana,ansible,git,github,gitlab&perline=5)
 
 #### Social Media
 Twitter: [@milad_ibra](https://twitter.com/milad_ibra)
