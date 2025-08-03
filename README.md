@@ -15,18 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Milad Ebrahimi, a Full-time Platform Engineer at [Bitvavo!]([https://github.com/bitvavo](https://github.com/bitvavo)).
+I'm Milad Ebrahimi, a Full-time Platform Engineer at [Bitvavo]([https://github.com/bitvavo](https://github.com/bitvavo)).
 
-I mostly code in **Golang** and **Python**, struggling with **Yaml** files a lot.
+I mostly code in **Go** and struggle with **YAML** and **HCL** files.
 
 Working with:
 
-![Stack](https://skillicons.dev/icons?i=go,py,kubernetes,openshift,docker,kafka,postgres,mysql,redis,gcp,aws,prometheus,grafana,ansible,git,github,gitlab&perline=5)
+![Stack](https://skillicons.dev/icons?i=kubernetes,go,terraform,aws,openshift,docker,kafka,postgres,mysql,redis,gcp,prometheus,grafana,ansible,py,git,github,gitlab&perline=6)
 
 #### Social Media
-Twitter: [@milad_ibra](https://twitter.com/milad_ibra)
-
-Telegram: [@milad_ibra](https://t.me/milad_ibra)
+Telegram: [@milad_ibra](https://t.me/tech_mini_blog)
 
 #### Stats
 ![Milad's Stats](https://github-readme-stats.vercel.app/api?username=miladibra10&show_icons=true&theme=radical&hide_rank=true)
