@@ -23,7 +23,12 @@ Working with:
 
 ![Stack](https://skillicons.dev/icons?i=kubernetes,go,terraform,aws,openshift,docker,kafka,postgres,mysql,redis,gcp,prometheus,grafana,ansible,py,git,github,gitlab&perline=6)
 
+#### Open-source contributions
+
+You can find a list of my contributions to open-source projects [here](https://github.com/pulls?q=is%3Apr+author%3Amiladibra10+archived%3Afalse+-org%3Amiladibra10+-org%3Abitvavo+-org%3Aebpfhub+-org%3AHighway-project)
+
 #### Social Media
+Linkedin: [milad-ibra](https://www.linkedin.com/in/milad-ibra/)
 Telegram: [@milad_ibra](https://t.me/tech_mini_blog)
 
 #### Stats
