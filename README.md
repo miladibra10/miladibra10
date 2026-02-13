@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Milad Ebrahimi, a Full-time Platform Engineer at [Bitvavo]([https://github.com/bitvavo](https://github.com/bitvavo)).
+I'm Milad, a Full-time Site Reliability Engineer at [Nebius](https://github.com/nebius).
 
-I mostly code in **Go** and struggle with **YAML** and **HCL** files.
+I mostly code in **Go** and play around with **YAML** and **HCL** files.
 
 Working with:
 
